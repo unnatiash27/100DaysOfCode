@@ -25,3 +25,10 @@ It is basically a streak challenge where I will do minimum one question on leetc
 -----------DAY 4---------------
 
 ![day4](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/bbe433e9-d2a4-4d8a-9ef2-c5e2154ad261)
+
+![day4ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ed41e58f-430b-4ccd-bfc7-d802b48410d2)
+
+![day4iii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/8a48fd90-70a8-4457-a668-7fecfa8f7733)
+
+![day4iv](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/8cd0fc0d-6077-4126-8539-bd04b4af7442)
+
