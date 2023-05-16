@@ -43,6 +43,10 @@ It is basically a streak challenge where I will do minimum one question on leetc
 ![day5iii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/88c1a0cf-c010-4a3c-952f-1ef249d6e416)
 
 
+------------DAY 6----------------
+
+![day6](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/8c35493f-ce5c-4132-8985-3cafa10dd5dd)
+
 
 
 
