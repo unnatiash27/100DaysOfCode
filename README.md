@@ -48,6 +48,11 @@ It is basically a streak challenge where I will do minimum one question on leetc
 ![day6](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/8c35493f-ce5c-4132-8985-3cafa10dd5dd)
 
 
+------------DAY 7----------------
+
+![dayy](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/daa475ad-ec0f-40cb-ae10-6d49e0a9838e)
+
+![day7ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/20de8729-74ab-4b00-85fe-9783d88a1bd2)
 
 
 
