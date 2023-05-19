@@ -1,5 +1,5 @@
 # 100DaysOfCode
-#DrGVishwanathan challenge
+# DrGVishwanathan challenge
 
 In this repository I am uploading 100 days of code.
 It is basically a streak challenge where I will do minimum one question on leetcode and maintain the streak for next 100 days.
@@ -64,12 +64,19 @@ It is basically a streak challenge where I will do minimum one question on leetc
 ![day8iii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/7b7a1eb5-d9e1-4490-9141-9fc59cef9ff3)
 
 
+-----------DAY 9------------------
 
+![day9](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/4dfbdc35-1349-4d4c-9a69-f5fd61ec3d32)
 
+![day9ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/332f9aea-3f1e-455a-ab3c-1b58bc4ca7d0)
 
+![day9iii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/9ebf6c54-63cb-4db3-ae0c-6d481cdc8e7b)
 
+![day9iv](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/53e2f10a-2a56-4199-92b9-4b7ad7429c3c)
 
+![day9v](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/5c2578fc-bd0d-486c-bc2c-479c73e744ad)
 
+![day9vi](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/c29aaf1e-67f4-4df1-9c3f-a89051aee2f5)
 
 
 
