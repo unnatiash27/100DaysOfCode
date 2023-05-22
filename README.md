@@ -103,9 +103,24 @@ It is basically a streak challenge where I will do minimum one question on leetc
 ![day11iii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/e270c62a-0135-4166-ab47-f8297e7e4adf)
 
 
+-----------DAY 12----------
 
+![day12](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/825c92c0-7b64-4a80-a909-5e7bb80d3bd3)
 
+![day12ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ceea4670-05a9-420f-8ef0-cbe25000c60e)
 
+![day12iii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/092381e5-65ac-44ca-aeed-8b2443876915)
 
+![day12iv](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/c3e637de-f8f0-4e0a-8e91-4eef057beee8)
+
+![day12ix](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/5f924963-729f-4d49-bcaf-7cc769f5d047)
+
+![day12v](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/f169147b-0046-4852-abcd-561f64a1d440)
+
+![day12vi](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/1e432585-45c7-47f9-952d-7828db022340)
+
+![day12vii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/90fb81a6-a9a8-4386-ad1d-5a266b91a782)
+
+![day12viii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/0ea8fc35-7398-446a-a35a-a1d263c497a1)
 
 
