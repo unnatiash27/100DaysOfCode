@@ -124,3 +124,13 @@ It is basically a streak challenge where I will do minimum one question on leetc
 ![day12viii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/0ea8fc35-7398-446a-a35a-a1d263c497a1)
 
 
+---------DAY 13------------
+
+![day13](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/20ea7a31-8a60-4341-b744-51a297b37064)!
+
+[day13ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/5af52f38-c877-4b5d-9f2a-2b0fff8ad278)
+
+![day13iii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/3d0f2df5-9232-4d75-a38e-2fcaedc323d5)
+
+
+
