@@ -151,6 +151,11 @@ It is basically a streak challenge where I will do minimum one question on leetc
 ![day15ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/31a8a818-0a35-4031-bf42-26454d83bd73)
 
 
+---------DAY 16-----------
+
+![day16](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/a4529369-2f00-4d50-8958-4af43888aad9)
+
+![day16ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/42582d1f-8789-4f32-87af-4049d6f82400)
 
 
 
