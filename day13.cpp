@@ -1,5 +1,5 @@
 //You are given a 0-indexed, strictly increasing integer array nums and a positive integer diff. 
-//Return the number of unique arithmetic triplets.
+//Return the number of unique arithmetic triplets. 
 
 class Solution {
 public:
