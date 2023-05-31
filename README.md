@@ -133,7 +133,7 @@ It is basically a streak challenge where I will do minimum one question on leetc
 ![day13iii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/3d0f2df5-9232-4d75-a38e-2fcaedc323d5)
 
 
-----------DAY 14-----------
+------------DAY 14-----------
 
 ![day14](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/961e38bd-8b57-4003-beb4-a0ab228bb334)
 
