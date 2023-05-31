@@ -177,3 +177,8 @@ It is basically a streak challenge where I will do minimum one question on leetc
 
 ![day20](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/8256df94-9505-43c4-88bf-5a5953285203)
 
+
+--------DAY 21-----------
+
+![day21](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/b96f26b1-7e43-47a0-b50f-9a6bc7b6dc46)
+
