@@ -13,6 +13,7 @@ public:
 };
 
 
+
 //A sentence is a list of tokens separated by a single space with no leading or trailing spaces. Every token is either a positive number consisting of digits 0-9 with no leading zeros, or a word consisting of lowercase English letters.
 
 
