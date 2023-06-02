@@ -188,4 +188,14 @@ It is basically a streak challenge where I will do minimum one question on leetc
 ![day22](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/926c4ad2-a906-4573-9092-294e3481891a)
 
 
+---------DAY 23----------
+
+![day23](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/cec5a543-9eef-4a2c-ba03-fd8e642ef236)
+
+![day23ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/a0e7457e-e701-4776-ae5b-1dd6046d27c1)
+
+![day23iii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/342ec3c9-5682-4737-b1d6-b5e5e75932b3)
+
+![day23iv](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/bf41247e-14bf-478b-a4f6-0672502ae6ec)
+
 
