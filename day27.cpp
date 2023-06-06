@@ -94,10 +94,108 @@ public:
 
 
 
+//Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head)  {
+    ListNode* dummy = new ListNode(0);
+    dummy->next = head;
+    ListNode* current = dummy;
+    while (current->next != NULL && current->next->next != NULL) {
+        ListNode* first = current->next;
+        ListNode* second = current->next->next;
+        first->next = second->next;
+        second->next = first;
+        current->next = second;
+        current = current->next->next;
+    }
+    return dummy->next;
+}
+};
 
 
 
 
+// You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list.
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution
+{
+public:
+    ListNode *deleteMiddle(ListNode *head)
+    {
+        if (head->next == NULL)
+            return NULL;
+        ListNode *p = head;
+        int c = 0;
+        while (p != NULL)
+        {
+            c++;
+            p = p->next;
+        }
+        p = head;
+        for (int i = 1; i < c / 2; i++)
+            p = p->next;
+        p->next = p->next->next;
+        return head;
+    }
+};
+
+
+
+// You are given the head of a linked list containing unique integer values and an integer array nums that is a subset of the linked list values.
+
+class Solution
+{
+public:
+    int numComponents(ListNode *head, vector<int> &nums)
+    {
+        if (!head)
+            return 0;
+        if (!head->next)
+            return 1;
+
+        int count = 0;
+        bool consecutive = false;
+        while (head)
+        {
+            if (find(nums.begin(), nums.end(), head->val) != nums.end())
+            {
+                if (!consecutive)
+                    count++;
+                consecutive = true;
+            }
+            else
+            {
+                consecutive = false;
+            }
+
+            head = head->next;
+        }
+
+        return count;
+    }
+};
 
 
 
