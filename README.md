@@ -224,6 +224,22 @@ It is basically a streak challenge where I will do minimum one question on leetc
 
 
 
+---------DAY 27-------------
+
+
+![day27](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/7f47b604-3107-4cae-93a5-2eef9238d31b)
+
+![day27ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/1422f2fa-9c7f-4bb6-a548-cd1659566d20)
+
+![day27iii cpp](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/f63312f7-1f3c-4fab-b335-0656d43347f4)
+
+![day27iv](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/db16e582-d80e-47ff-99d5-4df3b2acf896)
+
+![day27v](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ab0dba40-95c3-4221-af63-2d9317f85ba2)
+
+![day27vi](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/0d3ba3e2-e5a9-424b-94ab-c77870242ddd)
+
+
 
 
 
