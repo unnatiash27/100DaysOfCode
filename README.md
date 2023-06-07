@@ -240,6 +240,10 @@ It is basically a streak challenge where I will do minimum one question on leetc
 ![day27vi](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/0d3ba3e2-e5a9-424b-94ab-c77870242ddd)
 
 
+---------DAY 28----------------
 
+![DAY28](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/0aa01d97-b65b-4cb8-b8aa-ae135794fe40)
+
+![day28ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/4a39decc-7133-48d2-80ad-d6bf5cbe9c34)
 
 
