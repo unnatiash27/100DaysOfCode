@@ -268,3 +268,36 @@ It is basically a streak challenge where I will do minimum one question on leetc
 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/92071300-bf10-4309-9a6b-0c7eead9e3f5)
 
+
+---------DAY 30--------------
+
+![day29](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/5a1b508f-69b0-47b6-9520-74e255c45bae)
+
+![day29ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/cb268a90-1cad-4e5a-a1ed-a2abe875ba20)
+
+![day29iii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/a8308aa5-4d48-443b-b088-629e1292bfa8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
