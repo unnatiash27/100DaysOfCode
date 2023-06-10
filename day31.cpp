@@ -54,3 +54,48 @@ public:
         return matrix;
     }
 };
+
+//Given the head of a singly linked list and two integers left and right where left <= right, reverse the nodes of the list from position left to position right, and return the reversed list.
+
+ 
+class Solution {
+public:
+    ListNode* reverseBetween(ListNode* head, int left, int right) {
+        if(head == NULL) {
+            return NULL;
+        }
+
+        if(left == right) {
+            return head;
+        }
+
+        ListNode *current = head, *prev = NULL;
+
+        while(left > 1) {
+            prev = current;
+            current = current->next;
+            left--;
+            right--;
+        }
+
+        ListNode *tailPrev = prev, *tail = current, *iterator = NULL;
+
+        while(right > 0) {
+            iterator = current->next;
+            current->next = prev;
+            prev = current;
+            current = iterator;
+            right--;
+        }
+
+        if(tailPrev != NULL) {
+            tailPrev->next = prev;
+        } else {
+            head = prev;
+        }
+
+        tail->next = current;
+
+        return head;
+    }
+};
