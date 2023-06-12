@@ -1,6 +1,5 @@
 //Design a Skiplist without using any built-in libraries.
 
-
 class Skiplist {
 public:
 vector<int>s;
