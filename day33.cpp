@@ -8,7 +8,7 @@
  * bool param_3 = obj->erase(num);
  */
 
-class Skiplist {
+class Skiplist { 
 public:
 vector<int>s;
     Skiplist() {
