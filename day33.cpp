@@ -1,5 +1,13 @@
 //Design a Skiplist without using any built-in libraries.
 
+/**
+ * Your Skiplist object will be instantiated and called as such:
+ * Skiplist* obj = new Skiplist();
+ * bool param_1 = obj->search(target);
+ * obj->add(num);
+ * bool param_3 = obj->erase(num);
+ */
+
 class Skiplist {
 public:
 vector<int>s;
@@ -34,11 +42,3 @@ vector<int>s;
         return found;
     }
 };
-
-/**
- * Your Skiplist object will be instantiated and called as such:
- * Skiplist* obj = new Skiplist();
- * bool param_1 = obj->search(target);
- * obj->add(num);
- * bool param_3 = obj->erase(num);
- */
