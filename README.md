@@ -306,4 +306,7 @@ It is basically a streak challenge where I will do minimum one question on leetc
 
 --------DAY 35--------------
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ee5b677b-d455-4a54-b3f7-1265d9050b6a)
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/7f8842b1-c794-49b9-9655-3bd1fbec6be8)
 
