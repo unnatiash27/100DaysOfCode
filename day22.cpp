@@ -2,7 +2,7 @@
 
 class Solution
 {
-public:
+public: 
     int subtractProductAndSum(int n)
     {
         int s = 0, p = 1;
