@@ -35,8 +35,6 @@ int p,t;
 
 //In a linked list of size n, where n is even, the ith node (0-indexed) of the linked list is known as the twin of the (n-1-i)th node, if 0 <= i <= (n / 2) - 1.
 
-
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {
