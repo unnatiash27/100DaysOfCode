@@ -30,3 +30,50 @@ int p,t;
  * string param_2 = obj->back(steps);
  * string param_3 = obj->forward(steps);
  */
+
+
+
+
+//In a linked list of size n, where n is even, the ith node (0-indexed) of the linked list is known as the twin of the (n-1-i)th node, if 0 <= i <= (n / 2) - 1.
+
+
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    int pairSum(ListNode* head) {
+        ListNode* slow=head;
+        ListNode* fast=head;
+        int maxval=0;
+
+        while(fast && fast->next)
+        {
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        ListNode *curr,*prev=NULL;
+        while(slow)
+        {
+            curr=slow->next;
+            slow->next=prev;
+            prev=slow;
+            slow=curr;
+        }
+        while(prev)
+        {
+            maxval=max(maxval,head->val+prev->val);
+            head=head->next;
+            prev=prev->next;
+        }
+        return maxval;
+    }
+};
