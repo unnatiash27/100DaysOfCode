@@ -364,6 +364,9 @@ It is basically a streak challenge where I will do minimum one question on leetc
 
 
 
+-------------DAY 42-------------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/dbacbd9c-57b4-47b9-87b9-b2be1b0f5912)
 
  
 
