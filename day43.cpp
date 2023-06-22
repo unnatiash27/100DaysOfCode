@@ -79,3 +79,43 @@ public:
         return ans;
     }
 };
+
+
+//Given two strings s and t, return true if they are equal when both are typed into empty text editors. '#' means a backspace character.
+
+
+class Solution {
+public:
+    bool backspaceCompare(string s, string t) {
+        string s1,s2;
+        stack<int>st1,st2;
+
+        for(int i=0;i<s.size();i++)
+        {
+            if(s[i]=='#' && !st1.empty())
+            st1.pop();
+            else if(s[i] != '#')
+            st1.push(s[i]);
+        }
+        for(int i=0;i<t.size();i++)
+        {
+            if(t[i]=='#' && !st2.empty())
+            st2.pop();
+            else if(t[i] != '#')
+            st2.push(t[i]);
+        }
+        while(!st1.empty()){
+                 
+                 s1.push_back(st1.top());
+                 st1.pop();
+                 
+         }
+         while(!st2.empty()){
+                 
+                 s2.push_back(st2.top());
+                 st2.pop();
+                 
+         }
+         return s1 == s2;   
+    }
+};
