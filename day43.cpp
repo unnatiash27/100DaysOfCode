@@ -119,3 +119,58 @@ public:
          return s1 == s2;   
     }
 };
+
+
+//Design a stack that supports increment operations on its elements.
+
+class CustomStack {
+public:
+
+vector<int> v;
+int n;
+    CustomStack(int maxSize) {
+        n=maxSize;
+    }
+    
+    void push(int x) {
+        if(v.size()<n)
+        {
+            v.push_back(x);
+        }
+    }
+    
+    int pop() {
+        if(v.size()>0)
+        {
+            int poo=v[v.size()-1];
+            v.erase(v.begin()+v.size()-1);
+            return poo;
+        }
+        return -1;
+    }
+    
+    void increment(int k, int val) {
+        if(k>v.size())
+        {
+            for(int i=0 ; i<v.size() ; i++)
+            {
+                v[i] += val;
+            }
+        }
+        else
+        {
+            for(int i=0 ; i<k ; i++)
+            {
+                v[i] += val;
+            }
+        }
+    }
+};
+
+/**
+ * Your CustomStack object will be instantiated and called as such:
+ * CustomStack* obj = new CustomStack(maxSize);
+ * obj->push(x);
+ * int param_2 = obj->pop();
+ * obj->increment(k,val);
+ */
