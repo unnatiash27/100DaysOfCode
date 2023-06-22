@@ -54,3 +54,28 @@ public:
         return st.size();
     }
 };
+
+//Return the string after making it good. The answer is guaranteed to be unique under the given constraints.
+
+
+class Solution {
+public:
+    string makeGood(string s) {
+        stack <char> stk; //create stack of characters
+        stk.push(s[0]); //push the first element
+        for(int i=1;i<s.length();++i) //start comparing from 2nd character if the string
+        {
+            if(stk.empty()|| (stk.top()-s[i] != 32 && s[i]-stk.top() != 32))
+             stk.push(s[i]); // push the character if the stack is empty or in the pair of consecutive characters one is uppercase of the other
+            else stk.pop(); // difference of ASCII value of lowercase from its uppercase is 32
+        }
+        string ans="";
+        while(!stk.empty())  // pop the remaining stack
+        {
+            ans+=stk.top();
+            stk.pop();
+        }
+        reverse(ans.begin(),ans.end()); // reverse the string as stack pops in reverse order
+        return ans;
+    }
+};
