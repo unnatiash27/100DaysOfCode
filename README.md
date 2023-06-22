@@ -375,3 +375,6 @@ It is basically a streak challenge where I will do minimum one question on leetc
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/687f8d5a-015b-471e-b7f0-3a601c893931)
 
 
+-------------DAY 43--------------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/992ff9da-3f01-475e-9d97-fce0592ead35)
