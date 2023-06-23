@@ -17,7 +17,7 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ![leetcode day2(ii)](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ec6832a8-2057-42a6-aaa3-55990d7c6c89) 
 
 
-----------Day 3-------------
+----------Day 3------------- 
 
 ![day3img](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/aa6d7a74-fe40-4093-b613-6ec4e111cd65)
 
