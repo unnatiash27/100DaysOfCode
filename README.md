@@ -394,3 +394,9 @@ It is basically a streak challenge where I will do a minimum of one question on 
 -------------DAY 44------------
 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/81b76bae-ae5c-4e32-82c6-e0fac40cce50)
+
+
+------------DAY 45------------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/a68da296-21f0-4785-a796-a9137998cb27)
+
