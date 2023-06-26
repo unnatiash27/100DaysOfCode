@@ -6,7 +6,7 @@ public:
         stack<int>st;
         string ss;
         int c=0;
-        for(int i=0;i<s.size();i++)
+        for(int i=0;i<s.size();i++) 
         {
             if(s[i]=='(')
             {
