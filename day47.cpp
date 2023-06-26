@@ -10,7 +10,7 @@ public:
         {
             if(s[i]=='(')
             {
-                st.push(c);
+                st.push(c); 
                 c=0;
             }
             else if(!st.empty() && s[i]==')')
