@@ -9,7 +9,7 @@ public:
         int i=0;
         char ch = '1';
         st.push(ch);
-        while(!st.empty() && i<n){
+        while(!st.empty() && i<n){ 
             ch++;
             if(pat[i]=='I'){
                 while(!st.empty()){
