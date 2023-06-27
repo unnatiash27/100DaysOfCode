@@ -5,7 +5,7 @@ public:
     string smallestNumber(string pat) {
         string ans="";
         int n = pat.size();
-        stack<char> st;
+        stack<char> st; 
         int i=0;
         char ch = '1';
         st.push(ch);
