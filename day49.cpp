@@ -16,7 +16,7 @@ public:
                 nge[i]=st.top();
             }
             st.push(nums[i%n]);
-        }
+        } 
         return nge;
         
     }
