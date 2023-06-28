@@ -430,6 +430,9 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/b61afab7-83ea-4306-9adc-be0639a3fe9f)
 
 
+-----------DAY 49---------------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/88738e69-a85d-4dfd-bab7-9f5bab26cea8)
 
 
 
