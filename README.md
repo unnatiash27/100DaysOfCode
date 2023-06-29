@@ -435,6 +435,9 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/88738e69-a85d-4dfd-bab7-9f5bab26cea8)
 
 
+----------DAY 50----------------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ca83ea90-aafd-49e9-9a8a-9f5b1541d79d)
 
 
 
