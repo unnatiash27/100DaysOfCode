@@ -45,3 +45,41 @@ public:
         
     }
 };
+
+
+
+
+//Return the minimum number of deletions needed to make s balanced.
+
+
+class Solution {
+public:
+    int minimumDeletions(string s) {
+        stack<char>st;
+        char ch;
+        int c=0;
+        for(int i=s.size()-1;i>=0;i--)
+        {
+            ch=s[i];
+            if(!st.empty()&&st.top()<ch)
+            {
+                st.pop();
+                c++;
+            }
+            else
+            st.push(ch);
+        }
+        return c;
+    }
+};
+
+
+
+
+
+
+
+
+
+
+
