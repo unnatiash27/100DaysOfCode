@@ -17,7 +17,7 @@ public:
                     curr_str = st.top() + curr_str ;
                     st.pop();
                 }
-                
+                 
                 st.pop();   // for '['
                 string number = "";
                 
