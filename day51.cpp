@@ -13,3 +13,39 @@ public:
         return ans;
     }
 };
+
+
+//Return the final string after all such duplicate removals have been made. It is guaranteed that the answer is unique.
+
+class Solution {
+public:
+    string removeDuplicates(string s, int k) {
+        stack<pair<char,int>>st;
+        string ans;
+        for(int i=0;i<s.size();i++)
+        {
+            if(st.empty()||s[i]!=st.top().first)
+            {
+                st.push({s[i],1});
+            }
+            else
+            {
+                auto top_=st.top();
+                st.pop();
+                st.push({s[i],top_.second+1});
+            }
+            if(st.top().second==k)
+            st.pop();
+        }
+        while(!st.empty())
+        {
+            while(st.top().second--)
+            {
+                ans+=st.top().first;
+            }
+            st.pop();
+        }
+        reverse(ans.begin(),ans.end());
+        return ans;
+    }
+};
