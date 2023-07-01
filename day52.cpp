@@ -3,7 +3,7 @@ class Solution {
 public:
     string smallestSubsequence(string s) {
         stack<char>st;
-        vector<int>hash(26,0);
+        vector<int>hash(26,0);  
         vector<bool>visited(26,false);
         for(auto u : s) hash[u-'a']++;
         for(int i=0;i<s.size();i++)
