@@ -31,3 +31,43 @@ public:
         return ans;
     }
 };
+
+
+//Given a string word to which you can insert letters "a", "b" or "c" anywhere and any number of times, return the minimum number of letters that must be inserted so that word becomes valid.
+
+
+class Solution {
+public:
+    int addMinimum(string s) {
+        stack<char>st;
+        int c=0;
+        for(int i=0;i<s.size();i++)
+        {
+            st.push(s[i]);            
+        }
+        while(!st.empty())
+        {
+            if(!st.empty()&&st.top()=='c')
+            {
+                st.pop();
+            }
+            else
+            c++;
+            if(!st.empty()&&st.top()=='b')
+            {
+                st.pop();
+            }
+            else
+            c++;
+            if(!st.empty()&&st.top()=='a')
+            {
+                st.pop();
+            }
+            else
+            c++;
+            if(st.empty())
+            break;
+        }
+        return c;
+    }
+};
