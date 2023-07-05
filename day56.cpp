@@ -18,3 +18,16 @@ public:
         return ans;
     }
 };
+
+
+
+//Return the time when the train will arrive at the station
+
+class Solution {
+public:
+    int findDelayedArrivalTime(int arrivalTime, int delayedTime) {
+        int sum;
+        sum=arrivalTime+delayedTime;  
+        return sum%24;
+    }
+};
