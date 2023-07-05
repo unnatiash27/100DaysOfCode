@@ -3,7 +3,7 @@
 //Return the bitwise XOR of all elements of nums.
 
 class Solution {  
-public:
+public:  
     int xorOperation(int n, int start) {
         int nums[n];
         for(int i=0;i<n;i++)
