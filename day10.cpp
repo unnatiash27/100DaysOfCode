@@ -77,7 +77,7 @@ vector<bool> hash;
 //Design a HashMap without using any built-in hash table libraries.
 
 class MyHashMap {
-public:
+public:   
 
 unordered_map<int, int> map;
     MyHashMap() {
