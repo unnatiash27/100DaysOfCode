@@ -33,7 +33,7 @@ public:
             {
                 if(nums[i]>nums[j])
                 count++;
-            }
+            }  
             ans.push_back(count);
         }
         return ans;
