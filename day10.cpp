@@ -12,7 +12,7 @@ public:
                 x++;
                 nums[x]=nums[i];
             }
-        }
+        }  
         return x+1;
     }
 };
