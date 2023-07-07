@@ -78,7 +78,7 @@ vector<bool> hash;
 
 class MyHashMap {
 public:   
-
+  
 unordered_map<int, int> map;
     MyHashMap() {
         
