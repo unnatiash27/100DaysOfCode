@@ -488,3 +488,6 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/2a0f1972-9a1a-4234-b104-d5a21ac4aaca)
 
 
+------------DAY 58--------------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/bdec6508-b5c3-404b-b8ae-91666951f040)
