@@ -45,7 +45,7 @@ public:
 
 class MyHashSet {
 public:
-
+  
 vector<bool> hash;
 
     MyHashSet() {
