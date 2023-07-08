@@ -11,7 +11,7 @@ public:
      {
          if(i%2 != 0)
          ans+=s[i-1]+(s[i]-'0');
-         else
+         else  
          ans+=s[i];
      }   
      return ans;
