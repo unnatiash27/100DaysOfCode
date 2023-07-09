@@ -1,5 +1,5 @@
 //Return the pivot integer x. If no such integer exists, return -1. It is guaranteed that there will be at most one pivot index for the given input.
- 
+    
 class Solution 
 {
 public:
