@@ -498,6 +498,9 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/eb6c4b9e-34dd-484c-8b44-5461376ea690)
 
 
+-----------DAY 60-------------------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ba9dd290-9195-4961-aaab-067f37cd6708)
 
 
 
