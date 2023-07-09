@@ -18,7 +18,7 @@ public:
             if((totsum - presum + i) == presum) //apply condition mentioned in the problem
                 return i;
         }
-        return -1;
+        return -1;   
     }
 };
 
