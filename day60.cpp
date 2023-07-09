@@ -11,7 +11,7 @@ public:
             totsum += i;
         
         int presum=0;
-        
+           
         for(int i=1; i<=n; i++)
         {
             presum += i; //calculate prefix sum
