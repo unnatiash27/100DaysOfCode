@@ -9,5 +9,3 @@ public:
         return sum;
     }
 };
-
-
