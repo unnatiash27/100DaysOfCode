@@ -17,7 +17,7 @@ public:
         {
             if(c[i] == 0)
             return false;
-        }
+        } 
 
         return true;
     }
