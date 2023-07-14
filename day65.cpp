@@ -1,6 +1,5 @@
 //Given an integer array nums, return the greatest common divisor of the smallest number and largest number in nums.
 
-
 class Solution {
 public:
      int findGCD(vector<int>& nums) {
