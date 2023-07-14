@@ -11,3 +11,5 @@ public:
          return gcd(maxi,mini);
     }
 };
+
+
