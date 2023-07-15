@@ -529,6 +529,9 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/32197b5d-4722-4895-93c8-d42c84872aa4)
 
 
+------------DAY 66------------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/d9da1e25-43e2-46bd-8bb5-59216563910c)
 
 
 
