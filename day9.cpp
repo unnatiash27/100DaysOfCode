@@ -7,7 +7,7 @@ public:
         int n=sentence.size();
         vector<int>c(26,0);
  
-        for(int i=0;i<n;i++)
+        for(int i=0;i<n;i++)  
         {
             int index=(sentence[i]-'a');
             c[index]++;
