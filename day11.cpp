@@ -4,7 +4,7 @@
 //Each letter in message is then substituted using the table.
 //Spaces ' ' are transformed to themselves.
 
-  
+    
 class Solution {
 public:
     string decodeMessage(string key, string message) {
