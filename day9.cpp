@@ -111,7 +111,7 @@ class Solution
 public:
     ListNode *middleNode(ListNode *head)
     {
-        ListNode *a;
+        ListNode *a;   
         ListNode *b;
 
         while (b && b->next)
