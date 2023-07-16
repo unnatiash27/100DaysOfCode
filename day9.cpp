@@ -13,7 +13,7 @@ public:
             c[index]++;
         }
 
-        for(int i=0;i<26;i++)
+        for(int i=0;i<26;i++)   
         {
             if(c[i] == 0)
             return false;
