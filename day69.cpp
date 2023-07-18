@@ -20,7 +20,7 @@ public:
         return q.size();  
     }
 };
-  
+   
 /**  
  * Your RecentCounter object will be instantiated and called as such:
  * RecentCounter* obj = new RecentCounter();
