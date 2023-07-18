@@ -14,7 +14,7 @@ public:
         q.push(t);
         while(q.front() < t -3000)
         { 
-        q.pop();
+        q.pop(); 
         }
 
         return q.size();
