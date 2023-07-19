@@ -9,7 +9,7 @@ class MyStack {
     queue<int>ip,op;
 public:
     MyStack() {   
-        
+          
     }
     
     void push(int x) {
