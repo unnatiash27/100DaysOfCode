@@ -17,7 +17,7 @@ public:
         while(!ip.empty())
         {
             op.push(ip.front());
-            ip.pop();
+            ip.pop();  
         }
         swap(ip,op);
     }
