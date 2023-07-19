@@ -8,7 +8,7 @@
 class MyStack {
     queue<int>ip,op;
 public:
-    MyStack() {
+    MyStack() {   
         
     }
     
