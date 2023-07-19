@@ -3,7 +3,7 @@
 //void push(int x) Pushes element x to the top of the stack.
 //int pop() Removes the element on the top of the stack and returns it.
 //int top() Returns the element on the top of the stack.
-//boolean empty() Returns true if the stack is empty, false otherwise.
+//boolean empty() Returns true if the stack is empty, false otherwise.  
 
 class MyStack {
     queue<int>ip,op;
