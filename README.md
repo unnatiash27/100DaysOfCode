@@ -4,7 +4,7 @@
 In this repository, I am uploading 100 days of code.
 It is basically a streak challenge where I will do a minimum of one question on leetcode and maintain the streak for the next 100 days.  
 
-        
+         
 ----------DAY 1------------ 
 
 ![leetcode day 1](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/e344740d-acf5-411d-ad36-80147bad3e53)
