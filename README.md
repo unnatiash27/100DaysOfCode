@@ -521,7 +521,7 @@ It is basically a streak challenge where I will do a minimum of one question on 
 
 -------------DAY 64------------
 
-![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/03f41692-6aed-4177-b739-b37faa013490)
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/03f41692-6aed-4177-b739-b37faa013490) 
 
 
 -----------DAY 65------------
@@ -554,3 +554,34 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ------------DAY 70-------------
 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ee5a4e9f-951b-47fd-96a8-74c6b7b87995)
+
+
+-----------DAY 71-----------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/bc7d4e22-7cb9-487f-9b4b-b4512d54f25f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
