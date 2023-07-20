@@ -1,5 +1,5 @@
 //Design your implementation of the circular double-ended queue (deque).
- 
+   
 class MyCircularDeque {
     queue<int>q1,q2;
     int size;
