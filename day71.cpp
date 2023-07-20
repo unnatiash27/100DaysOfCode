@@ -6,7 +6,7 @@ class MyCircularDeque {
 public:
     MyCircularDeque(int k) {
         size=k;
-    }
+    } 
     
     bool insertFront(int value) {
         if(isFull())return false;
