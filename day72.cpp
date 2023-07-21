@@ -18,7 +18,7 @@ public:
             }
             else
             {
-                temp=q.front();
+                temp=q.front();  
                 q.pop();
                 q.push(temp);
                 c++;
