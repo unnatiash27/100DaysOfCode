@@ -24,6 +24,6 @@ public:
                 c++;
             }
         }
-        return q.front();
+        return q.front();  
     }
 };
