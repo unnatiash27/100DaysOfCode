@@ -2,7 +2,7 @@
 
 class Solution {  
 public:
-    int findTheWinner(int n, int k) {
+    int findTheWinner(int n, int k) {  
         if(k == 1)
             return n;
         queue<int>q;
