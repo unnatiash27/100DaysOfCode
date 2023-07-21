@@ -13,7 +13,7 @@ public:
         {
             if(c==k)
             {
-                q.pop();
+                q.pop(); 
                 c=1;
             }
             else
