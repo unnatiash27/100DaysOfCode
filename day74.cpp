@@ -1,7 +1,7 @@
 //Given an integer n, return the number of people who know the secret at the end of day n. Since the answer may be very large, return it modulo 109 + 7.
 
 class Solution {
-public:
+public:  
     int mod=1e9+7;
     int peopleAwareOfSecret(int n, int delay, int forget) {
        vector<int> curr(2001,0);
