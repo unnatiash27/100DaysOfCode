@@ -11,7 +11,7 @@ public:
            for(int j=i+delay;j<i+forget;j++)
            {
                curr[j]=(curr[j]+curr[i])%mod;
-           }
+           }  
 
        }
         long long  ans=0;
