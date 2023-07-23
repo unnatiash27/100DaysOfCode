@@ -19,6 +19,6 @@ public:
         {    
             ans=(ans+curr[i])%mod;
         }
-        return ans;
+        return ans;  
     }
 };
