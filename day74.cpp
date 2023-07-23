@@ -16,7 +16,7 @@ public:
        }
         long long  ans=0;
         for(int i=n;i>n-forget;i--)
-        {
+        {  
             ans=(ans+curr[i])%mod;
         }
         return ans;
