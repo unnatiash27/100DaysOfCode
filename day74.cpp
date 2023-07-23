@@ -12,7 +12,7 @@ public:
            {
                curr[j]=(curr[j]+curr[i])%mod;
            }  
-
+  
        }
         long long  ans=0;
         for(int i=n;i>n-forget;i--)
