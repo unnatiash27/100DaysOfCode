@@ -5,7 +5,7 @@ public:
         for(int i=0;i<nums.size();++i)
         {
            if(nums[i]<minK || nums[i]>maxK)
-           {
+           {   
                mini=-1;
                maxi=-1;
                l=i;
