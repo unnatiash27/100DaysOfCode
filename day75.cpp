@@ -9,7 +9,7 @@ public:
                mini=-1;
                maxi=-1;
                l=i;
-           }
+           }   
            else
            {
                if(nums[i]==minK)mini=i;
