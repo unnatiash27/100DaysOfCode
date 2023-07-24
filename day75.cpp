@@ -14,7 +14,7 @@ public:
            {
                if(nums[i]==minK)mini=i;
                if(nums[i]==maxK)maxi=i;
-               if(maxi!=-1&&mini!=-1)
+               if(maxi!=-1&&mini!=-1)  
                ans+=min(mini,maxi)-l;
            } 
         }
