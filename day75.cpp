@@ -10,7 +10,7 @@ public:
                maxi=-1;
                l=i;
            }   
-           else
+           else   
            {
                if(nums[i]==minK)mini=i;
                if(nums[i]==maxK)maxi=i;
