@@ -19,5 +19,5 @@ public:
            }   
         }
         return ans;
-    }
+    }  
 };//Return the number of fixed-bound subarrays.
