@@ -8,7 +8,7 @@ public:
            {   
                mini=-1;
                maxi=-1;
-               l=i;
+               l=i;   
            }     
            else     
            {
