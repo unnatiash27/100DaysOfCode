@@ -13,7 +13,7 @@ public:
                 r=nums[i]+2;
                 ans+=1;
             }
-            else if(nums[i]>=l && nums[i]<=r)
+            else if(nums[i]>=l && nums[i]<=r) 
             {
                 l=max(l,nums[i]-2);
                 r=min(r,nums[i]+2);
