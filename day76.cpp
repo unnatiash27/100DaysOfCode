@@ -5,7 +5,7 @@ public:
     long long continuousSubarrays(vector<int>& nums) {
         int l=0,r=0,j=0;
         long long ans=0;
-        for(int i=0;i<nums.size();i++)
+        for(int i=0;i<nums.size();i++) 
         {
             if(i==0)
             {
