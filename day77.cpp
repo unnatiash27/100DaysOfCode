@@ -1,5 +1,5 @@
 //Return an array of the index of the left-most letter being stamped at each turn. If we cannot obtain target from s within 10 * target.length turns, return an empty array.
-               
+                 
 class Solution {   
 public:
     vector<int> movesToStamp(string stamp, string target) {
