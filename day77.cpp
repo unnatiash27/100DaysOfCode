@@ -15,7 +15,7 @@ public:
              {
                  replace(target,i,stamp.size(),count);
                  b=false;
-                 visited[i]=true;
+                 visited[i]=true;   
                  ans.push_back(i);
              }
              if(count == target.size())
