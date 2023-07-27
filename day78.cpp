@@ -1,6 +1,6 @@
 //Return the maximum number of pairs that can be formed from the array words.
 
-class Solution {
+class Solution {  
 public:
     int maximumNumberOfStringPairs(vector<string>& words) {
         int count=0;
