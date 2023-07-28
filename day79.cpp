@@ -9,7 +9,7 @@ public:
         while(s[i]==' ')
         {
             i++;
-        }
+        }  
         bool positive=s[i]=='+';
         bool negative=s[i]=='-';
         positive==true?i++:i;
