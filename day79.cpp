@@ -23,4 +23,4 @@ public:
         num = (num < INT_MIN) ? INT_MIN : num;
         return int(num);
     }  
-};
+}; 
