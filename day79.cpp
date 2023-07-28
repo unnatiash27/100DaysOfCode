@@ -2,7 +2,7 @@
 
 class Solution {
 public:
-    int myAtoi(string s) {
+    int myAtoi(string s) {  
         int len = s.size();
         double num=0;
         int i=0;
