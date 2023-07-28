@@ -19,7 +19,7 @@ public:
             i++;
         }
         num=negative?-num:num;
-        num = (num > INT_MAX) ? INT_MAX : num;
+        num = (num > INT_MAX) ? INT_MAX : num;  
         num = (num < INT_MIN) ? INT_MIN : num;
         return int(num);
     }
