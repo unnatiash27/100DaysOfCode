@@ -14,7 +14,7 @@ public:
                 st.pop() ;
 
                 if(i=="+")
-                x=x+y;
+                x=x+y;  
                 if(i=="-")
                 x=y-x;  
                 if(i=="*")
