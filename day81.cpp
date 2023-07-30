@@ -13,7 +13,7 @@ public:
                 long long  y = st.top() ; 
                 st.pop() ;
 
-                if(i=="+")
+                if(i=="+")  
                 x=x+y;  
                 if(i=="-")
                 x=y-x;  
