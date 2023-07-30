@@ -20,7 +20,7 @@ public:
                 if(i=="*")
                 x=x*y;  
                 if(i=="/")
-                x=y/x;
+                x=y/x;  
                 st.push(x);  
             }
             else
