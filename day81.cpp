@@ -16,7 +16,7 @@ public:
                 if(i=="+")
                 x=x+y;
                 if(i=="-")
-                x=y-x;
+                x=y-x;  
                 if(i=="*")
                 x=x*y;
                 if(i=="/")
