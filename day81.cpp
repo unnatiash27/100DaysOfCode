@@ -21,7 +21,7 @@ public:
                 x=x*y;
                 if(i=="/")
                 x=y/x;
-                st.push(x);
+                st.push(x);  
             }
             else
             st.push(stoi(i)); 
