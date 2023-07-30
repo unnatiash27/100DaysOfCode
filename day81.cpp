@@ -24,7 +24,7 @@ public:
                 st.push(x);
             }
             else
-            st.push(stoi(i));
+            st.push(stoi(i)); 
         }
         return st.top();
     }
