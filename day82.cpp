@@ -6,7 +6,7 @@
 public:
     int maxProduct(vector<int>& nums) {
         int max=INT_MIN;
-        for(int i=0;i<nums.size();i++)
+        for(int i=0;i<nums.size();i++)  
         {
             int p=1;
             for(int j=i;j<nums.size();j++)
