@@ -13,7 +13,7 @@ public:
             {
                 p=p*nums[j];
                 if(p>max)
-                {
+                {  
                     max=p;
                 }
             }
