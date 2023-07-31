@@ -11,7 +11,7 @@ public:
             int p=1;
             for(int j=i;j<nums.size();j++)
             {
-                p=p*nums[j];
+                p=p*nums[j];  
                 if(p>max)
                 {  
                     max=p;  
