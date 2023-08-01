@@ -17,7 +17,7 @@ public:
         if(root==NULL)
         return false;
         if(root->left->val + root->right->val == root->val)
-        return true;
+        return true;  
         return false;
     }
 };
