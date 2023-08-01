@@ -12,7 +12,7 @@
  * };   
  */  
 class Solution {
-public:
+public:  
     bool checkTree(TreeNode* root) {
         if(root==NULL)
         return false;
