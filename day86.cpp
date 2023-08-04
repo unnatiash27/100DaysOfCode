@@ -17,7 +17,7 @@ public:
     int minDiffInBST(TreeNode* root) {
         int diff=INT_MAX;  
         int p=-1;
-        inorder(root,diff,p);
+        inorder(root,diff,p);  
         return diff;
     }
     void inorder(TreeNode* root, int& diff,int& p)
