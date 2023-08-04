@@ -19,7 +19,7 @@ public:
         int p=-1;
         inorder(root,diff,p);  
         return diff;
-    }
+    }   
     void inorder(TreeNode* root, int& diff,int& p)
     {
         if(root==NULL)return;
