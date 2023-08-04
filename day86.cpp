@@ -14,7 +14,7 @@
  */   
 class Solution {  
 public:
-    int minDiffInBST(TreeNode* root) {
+    int minDiffInBST(TreeNode* root) {   
         int diff=INT_MAX;  
         int p=-1;
         inorder(root,diff,p);  
