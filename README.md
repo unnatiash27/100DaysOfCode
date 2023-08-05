@@ -639,3 +639,7 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/cc3defa4-3eea-488e-8516-2dd3ee73e55b)
 
 
+
+-------DAY 87-------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/537ea7d9-4aef-46a8-b555-5274a4afbebd)
