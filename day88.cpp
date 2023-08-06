@@ -5,7 +5,7 @@ public:
     int canBeTypedWords(string text, string brokenLetters) {  
         vector<int> ch(26,0);  
 		// store the broken letters in ch vector  
-        for(char c: brokenLetters){
+        for(char c: brokenLetters){   
             ch[c-'a']=1;
         }
         int cnt=0,ans=0;  
