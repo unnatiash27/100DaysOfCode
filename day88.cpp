@@ -1,7 +1,7 @@
 //Given a string text of words separated by a single space (no leading or trailing spaces) and a string brokenLetters of all distinct letter keys that are broken, return the number of words in text you can fully type using this keyboard.
    
 class Solution {
-public:    
+public:      
     int canBeTypedWords(string text, string brokenLetters) {
         vector<int> ch(26,0);  
 		// store the broken letters in ch vector  
