@@ -3,7 +3,7 @@
 class Solution {
 public:
     int canBeTypedWords(string text, string brokenLetters) {
-        vector<int> ch(26,0);
+        vector<int> ch(26,0);  
 		// store the broken letters in ch vector
         for(char c: brokenLetters){
             ch[c-'a']=1;
