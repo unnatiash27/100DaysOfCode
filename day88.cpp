@@ -8,7 +8,7 @@ public:
         for(char c: brokenLetters){
             ch[c-'a']=1;
         }
-        int cnt=0,ans=0;
+        int cnt=0,ans=0;  
 		//traversing the text string
         for(int i=0;i<text.length();i++){
 		    //if char is ' ' means that we got a new word
