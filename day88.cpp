@@ -19,7 +19,7 @@ public:
             }else if(ch[text[i]-'a']==1){ //if char is present in ch then just increment the cnt
                     cnt++;
             }
-        }
+        }   
 		//for last word in string
         if(cnt==0) ans++;
         return ans;
