@@ -12,7 +12,7 @@ public:
 		//traversing the text string
         for(int i=0;i<text.length();i++){
 		    //if char is ' ' means that we got a new word
-            if(text[i]==' '){
+            if(text[i]==' '){  
 			    // cnt remain 0 means that there is no broken letter in this word
                 if(cnt==0) ans++;
                 cnt=0; //reinitialize cnt to 0 as new word start from here
