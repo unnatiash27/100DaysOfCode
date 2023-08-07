@@ -13,7 +13,7 @@
  */
 class Solution {
     int max = 0, c = 0, p = INT_MIN;
-    vector<int> v;
+    vector<int> v;  
 public:
     vector<int> findMode(TreeNode* root) {      
         traverse(root);
