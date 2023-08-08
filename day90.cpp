@@ -19,7 +19,7 @@ public:
         return solve(0,ans.size()-1);   
     }
 private:
-vector<TreeNode*>ans;
+vector<TreeNode*>ans;   
     void inorder(TreeNode* root)
     {
         if(root==NULL)return;
