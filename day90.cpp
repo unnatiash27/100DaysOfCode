@@ -32,7 +32,7 @@ vector<TreeNode*>ans;
         if(l>h)return NULL;
         int mid=(l+h)/2;
         TreeNode* root=ans[mid];
-        root->left=solve(l,mid-1);
+        root->left=solve(l,mid-1);   
         root->right=solve(mid+1,h);
         return root;
     }
