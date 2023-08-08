@@ -26,7 +26,7 @@ vector<TreeNode*>ans;
         inorder(root->left);
         ans.push_back(root);
         inorder(root->right);
-    }
+    }   
     TreeNode* solve(int l,int h)
     {
         if(l>h)return NULL;
