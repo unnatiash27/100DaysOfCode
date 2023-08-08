@@ -13,7 +13,7 @@
  */  
 class Solution {
 public:
-
+  
     TreeNode* balanceBST(TreeNode* root) {
         inorder(root);
         return solve(0,ans.size()-1);
