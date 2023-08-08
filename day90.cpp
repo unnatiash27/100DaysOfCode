@@ -16,7 +16,7 @@ public:
   
     TreeNode* balanceBST(TreeNode* root) {
         inorder(root);
-        return solve(0,ans.size()-1);
+        return solve(0,ans.size()-1);   
     }
 private:
 vector<TreeNode*>ans;
