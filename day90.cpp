@@ -21,7 +21,7 @@ public:
 private:
 vector<TreeNode*>ans;   
     void inorder(TreeNode* root)
-    {
+    {   
         if(root==NULL)return;
         inorder(root->left);
         ans.push_back(root);
