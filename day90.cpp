@@ -12,7 +12,7 @@
  * };
  */  
 class Solution {
-public:
+public:  
   
     TreeNode* balanceBST(TreeNode* root) {
         inorder(root);
