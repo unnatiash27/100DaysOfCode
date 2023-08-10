@@ -20,7 +20,7 @@ vector<int>v;
         in(root->left);
         v.push_back(root->val);
         in(root->right);
-    }
+    }  
         bool isValidBST(TreeNode* root) {
         in(root);
         for(int i=0;i<v.size()-1;i++)
