@@ -22,7 +22,7 @@ vector<int>v;
         in(root->right);
     }    
         bool isValidBST(TreeNode* root) {
-        in(root);
+        in(root);  
         for(int i=0;i<v.size()-1;i++)
         {
             if(v[i+1]<=v[i])
