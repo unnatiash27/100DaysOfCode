@@ -675,7 +675,9 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/57575cb5-41f2-4507-b274-8975a30b223a)
 
 
+-------DAY 94--------
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/44b93d64-f0a4-46a9-92c0-68fa96668c82)
 
 
 
