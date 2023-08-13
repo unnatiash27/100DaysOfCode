@@ -8,7 +8,7 @@ public:
     vector<Node*> children;
 
     Node() {}
-  
+     
     Node(int _val) {
         val = _val;  
     }
