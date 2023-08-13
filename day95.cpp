@@ -16,7 +16,7 @@ public:
     Node(int _val, vector<Node*> _children) {
         val = _val;
         children = _children;
-    }
+    }   
 };
 */
 
