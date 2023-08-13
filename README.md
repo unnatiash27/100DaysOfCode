@@ -680,6 +680,9 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/44b93d64-f0a4-46a9-92c0-68fa96668c82)
 
 
+--------DAY 95--------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/9ff8ef25-9e27-4f80-9189-7da4cbe0a2fc)
 
 
 
