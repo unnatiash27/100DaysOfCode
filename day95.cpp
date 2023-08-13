@@ -10,7 +10,7 @@ public:
     Node() {}
 
     Node(int _val) {
-        val = _val;
+        val = _val;  
     }
 
     Node(int _val, vector<Node*> _children) {
