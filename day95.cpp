@@ -4,7 +4,7 @@
 // Definition for a Node.
 class Node {
 public:
-    int val;
+    int val;   
     vector<Node*> children;
 
     Node() {}
