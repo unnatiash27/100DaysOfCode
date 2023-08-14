@@ -685,6 +685,9 @@ It is basically a streak challenge where I will do a minimum of one question on 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/9ff8ef25-9e27-4f80-9189-7da4cbe0a2fc)
 
 
+------DAY 96-----------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/d1fa27b6-db07-4f65-b72f-9eb956eda22b)
 
 
 
