@@ -2,7 +2,8 @@
 //Return an array of strings containing the new strings formed after the splits, excluding empty strings.
 class Solution {   
 public:   
-    vector<string> splitWordsBySeparator(vector<string>& words, char separator) {
+    vector<string> splitWordsBySeparator(vector<string>& words, char separator) 
+{
         vector<string> ans;   
         for(int i=0; i<words.size();i++){       
             string s = words[i];
