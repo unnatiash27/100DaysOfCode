@@ -4,7 +4,7 @@ class Solution {
 public:
     vector<string> splitWordsBySeparator(vector<string>& words, char separator) {
         vector<string> ans;
-        for(int i=0; i<words.size();i++){
+        for(int i=0; i<words.size();i++){       
             string s = words[i];
             string temp ="";
             for(auto a:s){
