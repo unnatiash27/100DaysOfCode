@@ -12,7 +12,8 @@ public:
                     ans.push_back(temp);
                     temp="";
                 }
-                if(a!=separator) temp+=a;
+                if(a!=separator) 
+                    temp+=a;
             } 
             if(temp!="")
                 ans.push_back(temp);
