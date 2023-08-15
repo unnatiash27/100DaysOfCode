@@ -14,7 +14,8 @@ public:
                 }
                 if(a!=separator) temp+=a;
             } 
-            if(temp!="")ans.push_back(temp);
+            if(temp!="")
+                ans.push_back(temp);
         }
         return ans;
     }
