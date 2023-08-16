@@ -17,7 +17,7 @@ public:
            { pos.push_back(i);
             vol.push_back(s[i]);}
         }   
-        sort(vol.begin(),vol.end());         
+        sort(vol.begin(),vol.end());           
         for(int i=0;i<pos.size();i++)
         {
           
