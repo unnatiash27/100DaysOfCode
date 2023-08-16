@@ -692,8 +692,12 @@ It is basically a streak challenge where I will do a minimum of one question on 
 
 ------DAY 97-------
 
-![Uploading image.png…]()
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/29920a43-12ab-45b2-8099-ab6eee714036)
 
+
+-----DAY 98----------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/906f2b5e-176d-4d02-8d0a-7f5380cb68b3)
 
 
 
