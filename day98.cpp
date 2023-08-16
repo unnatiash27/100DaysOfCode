@@ -6,7 +6,7 @@ Return the resulting string.
 
 The vowels are 'a', 'e', 'i', 'o', and 'u', and they can appear in lowercase or uppercase. Consonants comprise all letters that are not vowels.
 */
-
+  
 class Solution {
 public:
     string sortVowels(string s) {
