@@ -22,6 +22,7 @@ public:
         sort(vol.begin(),vol.end());
         for(int i=0;i<pos.size();i++)
         {
+          
             ans[pos[i]]=vol[i];
         }
         return ans;
