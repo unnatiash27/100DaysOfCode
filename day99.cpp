@@ -5,7 +5,7 @@ public:
     int countGoodTriplets(vector<int>& arr, int a, int b, int c) {
      int x=0;
      for(int i=0;i<arr.size()-2;i++)
-     {
+     {  
          for(int j=i+1;j<arr.size()-1;j++) 
          {
              if( (abs(arr[i]-arr[j])<=a) ){
