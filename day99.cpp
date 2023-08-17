@@ -1,6 +1,7 @@
 //Given an array of integers arr, and three integers a, b and c. You need to find the number of good triplets.
 
-class Solution {
+class Solution 
+{
 public:
     int countGoodTriplets(vector<int>& arr, int a, int b, int c) 
 {
