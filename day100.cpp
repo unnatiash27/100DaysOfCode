@@ -11,7 +11,8 @@ public:
         for (auto num : nums2)
             s2.insert(num);
         for (auto num : s1) { 
-            if (s2.find(num) == s2.end()) {
+            if (s2.find(num) == s2.end()) 
+            {
                 answer[0].push_back(num);
             }
         }
