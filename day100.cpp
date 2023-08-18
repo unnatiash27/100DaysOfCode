@@ -3,7 +3,7 @@
 class Solution {
 public:
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
-        unordered_set<int> s1, s2;
+        unordered_set<int> s1, s2;   
         vector<vector<int>> answer(2);
         for (auto num : nums1)
             s1.insert(num);
