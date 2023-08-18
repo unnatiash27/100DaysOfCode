@@ -711,5 +711,5 @@ It is basically a streak challenge where I will do a minimum of one question on 
 
 
 
-# ::::::::::::::::::::::::::::::::::::::::: CHALLENGE COMPLETED ::::::::::::::::::::::::::::::::::::::::: 
+# :::::::::::::::::::::::::::::: CHALLENGE COMPLETED :::::::::::::::::::::::::::::: 
 
