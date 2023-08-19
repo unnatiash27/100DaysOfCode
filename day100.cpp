@@ -27,7 +27,6 @@ public:
 };
 
 
-
 //2778. Sum of Squares of Special Elements
 
 class Solution {
