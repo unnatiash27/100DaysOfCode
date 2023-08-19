@@ -8,7 +8,7 @@ public:
         vector<vector<int>> answer(2);
         for (auto num : nums1)
             s1.insert(num);
-        for (auto num : nums2)
+        for (auto num : nums2)   
             s2.insert(num);
         for (auto num : s1) { 
             if (s2.find(num) == s2.end()) 
