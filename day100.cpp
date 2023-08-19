@@ -14,7 +14,7 @@ public:
             {
                 answer[0].push_back(num);
             }
-        }
+        }  
         for (auto num : s2) {  
             if (s1.find(num) == s1.end()) {
                 answer[1].push_back(num);     
