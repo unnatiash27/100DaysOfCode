@@ -5,7 +5,7 @@ public:
 {
         unordered_set<int> s1, s2;   
         vector<vector<int>> answer(2);     
-        for (auto num : nums1)
+        for (auto num : nums1)  
             s1.insert(num);   
         for (auto num : nums2)   
             s2.insert(num);   
