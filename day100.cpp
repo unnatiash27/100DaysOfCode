@@ -1,5 +1,4 @@
-//2215. Find the Difference of Two Arrays
- 
+//2215. Find the Difference of Two Arrays 
 class Solution {
 public:
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) 
