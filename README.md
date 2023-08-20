@@ -52,6 +52,9 @@ It is basically a streak challenge where I will do a minimum of one question on 
 
 ![day6](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/8c35493f-ce5c-4132-8985-3cafa10dd5dd)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/cd807034-f922-45ac-9d0f-9d39686f9f09)
+
+
 
 
 ------------DAY 7----------------
