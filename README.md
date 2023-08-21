@@ -6,6 +6,9 @@ It is basically a streak challenge where I will do a minimum of one question on 
     
 
 ----------DAY 1-----------
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/47ecf114-f6c2-4395-8347-91105d78141c)
+
   
 ![leetcode day 1](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/e344740d-acf5-411d-ad36-80147bad3e53)
  
