@@ -67,7 +67,6 @@
 ![day7ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/20de8729-74ab-4b00-85fe-9783d88a1bd2)
 
 
-
 -----------DAY 8---------------
 
 ![day8](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/12d9b29b-2d8f-40aa-9550-71fb472caf87)
