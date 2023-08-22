@@ -182,6 +182,9 @@
 
 ![day17](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/debfb17a-4f4b-4ffa-a9b2-bf57b68976c8)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/5f559716-2e42-4fbf-a84d-6182c478a1e5)
+
+
 
 
 ---------DAY 18-----------
