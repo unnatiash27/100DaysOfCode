@@ -22,7 +22,7 @@
 
 ![leetcode day2(ii)](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ec6832a8-2057-42a6-aaa3-55990d7c6c89) 
 
-![Uploading image.png…]()
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/a4f522d6-b053-4885-af0b-7028f78a0f4b)
 
 
 ----------Day 3-------------      
@@ -67,6 +67,9 @@
 ![dayy](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/daa475ad-ec0f-40cb-ae10-6d49e0a9838e)
 
 ![day7ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/20de8729-74ab-4b00-85fe-9783d88a1bd2)
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/417c4d37-cd99-4c63-b7f3-bed8350cff36)
+
 
 
 -----------DAY 8---------------
