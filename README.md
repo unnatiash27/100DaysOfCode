@@ -181,6 +181,7 @@
 
 ![day16ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/42582d1f-8789-4f32-87af-4049d6f82400)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/062322a2-cf8f-4400-8a3d-2a73f651124e)
 
 
 ---------DAY 17------------
