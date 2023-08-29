@@ -60,6 +60,7 @@
 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/7054902a-bfdd-4d6a-831b-cf70eab802af)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/bc25340d-c8b9-45ad-88eb-aca33ec8028d)
 
 
 ------------DAY 7----------------
