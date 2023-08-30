@@ -172,6 +172,8 @@
 
 ![day15](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/8be6af9a-ef32-4f71-a02b-b63e5bc95a8a)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/3d775cc0-47a3-4527-9f89-7d17a5ad79af)
+
 ![day15ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/31a8a818-0a35-4031-bf42-26454d83bd73)
 
 
