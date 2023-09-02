@@ -215,6 +215,8 @@
 
 ![day20](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/8256df94-9505-43c4-88bf-5a5953285203)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/dc822ea2-6ebf-491b-b610-e0935942adcf)
+
 
 --------DAY 21-----------
 
