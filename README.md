@@ -13,7 +13,7 @@
 ![leetcode day 1](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/e344740d-acf5-411d-ad36-80147bad3e53)  
   
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/f1b81483-7288-40af-a9e3-7347da004eba)        
-                
+                  
           
 ----------DAY 2------------               
 
