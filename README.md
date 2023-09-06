@@ -68,7 +68,7 @@
 ![dayy](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/daa475ad-ec0f-40cb-ae10-6d49e0a9838e)
 
 ![day7ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/20de8729-74ab-4b00-85fe-9783d88a1bd2)
-
+   
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/417c4d37-cd99-4c63-b7f3-bed8350cff36)
 
 
