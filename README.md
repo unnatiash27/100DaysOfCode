@@ -223,6 +223,8 @@
 
 ![day21](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/b96f26b1-7e43-47a0-b50f-9a6bc7b6dc46)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/84d5258f-95c3-4877-a7f0-28aa34cd84b2)
+
 
 ----------DAY 22---------
 
