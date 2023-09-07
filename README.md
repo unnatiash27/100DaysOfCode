@@ -166,6 +166,7 @@
 
 ![day14iv](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/21c28bce-dbda-4fd1-83eb-ee7f4a77aa6b)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/a4cfca59-9065-46a9-bfb1-e2471133b8ff)
 
 
 ----------DAY 15-----------
