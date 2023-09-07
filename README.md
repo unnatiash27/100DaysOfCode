@@ -16,7 +16,7 @@
                   
           
 ----------DAY 2------------               
-
+  
 ![leetcode day2](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/e450aa83-1669-4cf8-8d9d-d4b0e134d05c) 
 
 ![leetcode day2(ii)](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ec6832a8-2057-42a6-aaa3-55990d7c6c89) 
