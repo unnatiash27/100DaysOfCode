@@ -269,6 +269,8 @@
 
 ![day26ii cpp](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/f922b1c0-0bfd-4f9f-a922-55b0614c033c)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/30be8afc-b75f-4a6c-887e-0ed1e645d880)
+
 
 ---------DAY 27-------------
 
