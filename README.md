@@ -256,6 +256,7 @@
 
 ![day24ii](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/b5a80a7a-5c17-45ff-b932-acf6e7b60422)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/66ca9c79-6e7e-4160-bd91-28f11fd6054d)
 
 
 ----------DAY 25------------
