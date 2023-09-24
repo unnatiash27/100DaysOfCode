@@ -220,6 +220,8 @@
 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/dc822ea2-6ebf-491b-b610-e0935942adcf)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/d03517b5-2af4-43ea-99cf-5f2b58d8c699)
+
 
 --------DAY 21-----------
 
