@@ -481,6 +481,8 @@
 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/b61afab7-83ea-4306-9adc-be0639a3fe9f)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/722edea5-fbf5-4dad-8fe2-dc9c3a8e396b)
+
 
 -----------DAY 49---------------
 
