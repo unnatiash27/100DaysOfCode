@@ -488,6 +488,8 @@
 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/88738e69-a85d-4dfd-bab7-9f5bab26cea8)
 
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/1c7233b9-81ec-4959-b0fb-aea992a94bea)
+
 
 --------------DAY 50----------------
 
