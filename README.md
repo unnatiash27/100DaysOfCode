@@ -8,15 +8,15 @@
   
 ----------DAY 1-----------
 
-![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/47ecf114-f6c2-4395-8347-91105d78141c)         
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/47ecf114-f6c2-4395-8347-91105d78141c)
 
-![leetcode day 1](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/e344740d-acf5-411d-ad36-80147bad3e53)  
-        
-![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/f1b81483-7288-40af-a9e3-7347da004eba)              
+![leetcode day 1](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/e344740d-acf5-411d-ad36-80147bad3e53)
+
+![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/f1b81483-7288-40af-a9e3-7347da004eba)        
       
-----------DAY 2------------   
-  
-![leetcode day2](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/e450aa83-1669-4cf8-8d9d-d4b0e134d05c)   
+----------DAY 2------------
+
+![leetcode day2](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/e450aa83-1669-4cf8-8d9d-d4b0e134d05c)
 
 ![leetcode day2(ii)](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ec6832a8-2057-42a6-aaa3-55990d7c6c89) 
 
