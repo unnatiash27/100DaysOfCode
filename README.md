@@ -30,7 +30,6 @@
 ![day3II](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/6b129ea8-e68d-4f55-9bdc-ab15e68bb35f)
 
 ![day3III](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/04305cee-a0ba-406d-bc2a-f2becae76e6a)
-
  
 -----------DAY 4-------------
 
