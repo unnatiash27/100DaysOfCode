@@ -22,7 +22,7 @@
 ![leetcode day2(ii)](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/ec6832a8-2057-42a6-aaa3-55990d7c6c89) 
 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/a4f522d6-b053-4885-af0b-7028f78a0f4b)
-  
+
 
 ----------Day 3-------------      
 
