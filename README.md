@@ -54,7 +54,7 @@
 ------------DAY 6----------------
 
 ![day6](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/8c35493f-ce5c-4132-8985-3cafa10dd5dd)
-
+ 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/cd807034-f922-45ac-9d0f-9d39686f9f09)
 
 ![image](https://github.com/unnatiash27/100DaysOfCode/assets/113242914/7054902a-bfdd-4d6a-831b-cf70eab802af)
